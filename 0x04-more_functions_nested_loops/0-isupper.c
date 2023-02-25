@@ -3,6 +3,7 @@
 
 /**
  * _isupper - print uppercase character
+ * @c: The character to print.
  *
  * Return: 1 if c is uppercase
  *         0 if otherwise
