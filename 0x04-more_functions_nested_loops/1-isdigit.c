@@ -3,7 +3,7 @@
 /**
  * _isdigit - checks for digits
  *
- * Return: 1 if c is a digit and 0 if otherwise
+ * Return: 1 if c is a digit
  */
 int _isdigit(int c)
 {
