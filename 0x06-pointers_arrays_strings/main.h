@@ -1,9 +1,10 @@
-#ifdef MAIN_H
+#ifndef MAIN_H
 #define MAIN_H
 
 /**
  * File: main.h
- * Desc: Header file containing prototype
+ * Auth: Joylyla
+ * Desc: Header file containing prototypes
  */
 
 int _putchar(char c);
@@ -21,3 +22,4 @@ char *infinite_add(char *n1, char *n2, char *r, int size_r);
 void print_buffer(char *b, int size);
 
 #endif
+
